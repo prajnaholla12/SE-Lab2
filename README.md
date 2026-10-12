@@ -1,7 +1,7 @@
 # Jira Hands-on – Agile Backlog Creation & Sprint Simulation
-
+# Submitted on 8th september 2026 on Teams. Recreated Repository later due to technical issues 
 ## Overview
-Submitted on 8th september 2026 on Teams. Recreated Repository later due to technical issues 
+
 This lab demonstrates the use of Jira for Agile project management using the **Municipal Solid Waste Route Optimizer (MSWRO)** project.
 
 ## Objectives
